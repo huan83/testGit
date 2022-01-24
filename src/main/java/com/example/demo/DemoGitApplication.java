@@ -14,6 +14,7 @@ public class DemoGitApplication {
 		
 		System.out.println("add something to bug fix branch");
 		System.out.println("add something11 to bug fix branch");
+		System.out.println("see remote tracking");
 	}
 
 }
