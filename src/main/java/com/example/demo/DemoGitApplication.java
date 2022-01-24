@@ -10,6 +10,7 @@ public class DemoGitApplication {
 		SpringApplication.run(DemoGitApplication.class, args);
 		System.out.println("test dev fix bug");
 		System.out.println("test2111 dev fix bug");
+		System.out.println("test333 dev fix bug");
 	}
 
 }
