@@ -11,6 +11,9 @@ public class DemoGitApplication {
 		System.out.println("test dev fix bug");
 		System.out.println("test2111 dev fix bug");
 		System.out.println("test333 dev fix bug");
+		
+		System.out.println("add something to bug fix branch");
+		System.out.println("add something11 to bug fix branch");
 	}
 
 }
