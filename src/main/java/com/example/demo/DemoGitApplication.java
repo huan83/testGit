@@ -8,7 +8,7 @@ public class DemoGitApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoGitApplication.class, args);
-		System.out.println("test");
+		System.out.println("test dev fix bug");
 	}
 
 }
