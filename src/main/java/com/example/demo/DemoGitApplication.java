@@ -9,6 +9,7 @@ public class DemoGitApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoGitApplication.class, args);
 		System.out.println("test dev fix bug");
+		System.out.println("this is mater brach");
 
 	}
 
